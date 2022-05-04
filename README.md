@@ -1,5 +1,8 @@
 flywayの試しソース
 
+※フォルダは以下に作成
+C:\GradleSample
+
 下記ページを参考に作業
 https://qiita.com/manchan/items/96ed635ae88598dc2158
 
